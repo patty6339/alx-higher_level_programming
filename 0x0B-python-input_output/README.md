@@ -1,6 +1,6 @@
-Why Python programming is awesome
-How to open a file
-How to write text in a file
+Why Python programming is awesome /n
+How to open a file /n
+How to write text in a file /n
 How to read the full content of a file
 How to read a file line by line
 How to move the cursor in a file
